@@ -1,6 +1,6 @@
 # LOST IN THE LOST TEMPLE
 A 2d platformer where the hero is the son of an archaeologist who 
-excavates an ancient temple that belonged to civilization that existed
+excavates an ancient temple that belonged to a civilization that existed
 around 3000BC. 
 
 Hero lost his way inside the temple and has to find a way out!
