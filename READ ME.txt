@@ -3,7 +3,7 @@
 =======================================================================
 
 A 2d platformer where the hero is the son of an archaeologist who 
-excavates an ancient temple that belonged to civilization that existed
+excavates an ancient temple that belonged to a civilization that existed
 around 3000BC. 
 
 Hero lost his way inside the temple and has to find a way out!
@@ -20,7 +20,7 @@ Kindly wait for 10 seconds for the game menu to show after showing introduction 
 
 While playing:
 
-Whenever you clear a level or in credits page or in any page, press 'Enter' key
+Whenever you clear a level or you are in credits page or in any page, press 'Enter' key
 to move to next level or menu page.
 
 
